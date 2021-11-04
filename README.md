@@ -1,1 +1,5 @@
-# flutter-desktop-codelab
+# Flutter Desktop Codelab
+
+### App to design
+
+<img src="assets/screenshot.png">
