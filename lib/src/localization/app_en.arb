@@ -1,0 +1,13 @@
+{
+  "appTitle": "YoPro",
+  "@appTitle": {
+    "description": "YoPro. Helping you carry out your daily activities and productivity."
+  },
+  "appSubTitle": "Your productivity assistant",
+  "pomodoroTimer": "Pomodoro Timer",
+  "todoList": "To Do List",
+  "scheduler": "Scheduler",
+  "settings": "Settings",
+  "logout": "Logout",
+  "thingsTodo": "Things to do"
+}
